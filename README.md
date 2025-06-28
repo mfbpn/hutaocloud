@@ -1,6 +1,6 @@
 # HutaoCloud机场官网地址
 
-最新地址：[hutao.cloud](https://hutao.cloud/auth/register?code=jo1I)
+最新地址：[hutao.cloud](https://hutao.cloud/auth/register?code=oBL7)
 
 ## HutaoCloud介绍
 
